@@ -1,7 +1,9 @@
 import pandas as pd
 from tabulate import tabulate
 
-file_path = 'D:\\B3 data\\COTAHIST_A2023.TXT'
+#https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/
+
+file_path = 'COTAHIST_A2023.TXT'
 
 # Especificar as larguras das colunas
 colspecs = [
